@@ -3,4 +3,4 @@
 ---
 功能：处理来自“abbyy finereader PDF” 对目标pdf的目录段进行OCR后得到的txt文档，输出文本作为”QuickOutline“的输入
 
-![Unknown.pdf](https://github.com/user-attachments/files/17142455/Unknown.pdf)
+![Screenshot 2024-10-08 at 14 15 28](https://github.com/user-attachments/assets/479f8404-e75c-4da9-92e3-4f517dee405f)
